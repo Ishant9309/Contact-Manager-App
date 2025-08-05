@@ -1,0 +1,26 @@
+# Ignore target directory (compiled files)
+target/
+
+# Ignore IDE settings
+*.iml
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# Ignore log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment or sensitive files (if any)
+.env
+
+# Node modules (if using JS build tools in future)
+node_modules/
+
+# Backup files
+*.bak
+*.swp
