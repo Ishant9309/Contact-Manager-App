@@ -7,7 +7,7 @@ A simple full-stack web application to manage contact records using Spring Boot,
 - Ishant Teli
 - Rohit Tamkhane
 - Pruthviraj Shewale
-
+- Tanvi Bhagate
 ---
 
 # Features
