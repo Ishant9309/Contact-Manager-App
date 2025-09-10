@@ -6,7 +6,7 @@ A simple full-stack web application to manage contact records using Spring Boot,
 # Team Members
 - Ishant Teli
 - Rohit Tamkhane
-- Pruthviraj Shewale
+- Akash buttepwad
 - Tanvi Bhagate
 ---
 
